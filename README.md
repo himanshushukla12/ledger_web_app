@@ -47,6 +47,8 @@ python app.py
 ```
 
 3. Open a web browser and visit `http://localhost:5000/`.
+   ![Image Alt Text](https://github.com/himanshushukla12/ledger_web_app/raw/main/Screenshot.png)
+
 
 ## About the Application
 
